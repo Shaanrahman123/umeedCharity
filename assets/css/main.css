@@ -11162,6 +11162,15 @@ input[type="file"] #file-upload-button {
 
     }
 
+    header.header-1 .header-bottom {
+
+        background: #fff !important;
+    }
+
+    .header-bottom .header-wrapper .menu-area .header-bar span {
+        background-color: #111 !important;
+    }
+
     .padd {
         padding: 30px;
     }
